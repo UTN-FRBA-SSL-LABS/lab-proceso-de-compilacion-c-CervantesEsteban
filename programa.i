@@ -2210,7 +2210,7 @@ _mm_free (void *__aligned_ptr)
 double area_circulo(double radio);
 int factorial(int n);
 # 20 "programa.c" 2
-# 35 "programa.c"
+# 36 "programa.c"
 int llamadas = 0;
 
 
@@ -2263,9 +2263,9 @@ int main(void) {
     printf("Llamadas a sumar(): %d\n", llamadas);
 
     return 
-# 86 "programa.c" 3
+# 87 "programa.c" 3
           0
-# 86 "programa.c"
+# 87 "programa.c"
                       ;
 }
 

@@ -22,6 +22,7 @@
 #define VERSION   "1.0"
 #define LIMITE    5
 
+
 /* ── Compilación condicional ─────────────────────────────────────── */
 /* Para activar el modo debug compilar con: gcc -DDEBUG ...          */
 #ifdef DEBUG
